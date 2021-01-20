@@ -11,10 +11,13 @@
     "type": "git",
     "url": "git+https://github.com/alex632/kq.git"
   },
-  "author": "alex_huang@wistron.com",
+  "author": "lance_li@wistron.com",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/alex632/kq/issues"
   },
-  "homepage": "https://github.com/alex632/kq#readme"
+  "homepage": "https://github.com/alex632/kq#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
 }
