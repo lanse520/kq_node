@@ -11,7 +11,7 @@
 
 
 # How to use
-git clone https://github.com/alex632/kq.git
+git clone https://github.com/lanse520/kq_node.git
 > node index.js
 
 # Insights

@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alex632/kq.git"
+    "url": "git+https://github.com/lanse520/kq_node.git"
   },
   "author": "lance_li@wistron.com",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alex632/kq/issues"
+    "url": "https://github.com/lanse520/kq_node/issues"
   },
-  "homepage": "https://github.com/alex632/kq#readme",
+  "homepage": "https://github.com/lanse520/kq_node#readme",
   "dependencies": {
     "moment": "^2.29.1"
   }
